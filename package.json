@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/khanmanan/cwk-api.js"
+    "url": "https://github.com/Khanmanan/cwk-api-v13"
   },
   "dependencies": {
-    "discord-buttons": "^4.0.0",
+    
     "discord.js": "^12.5.3",
     "mathjs": "^9.4.4",
     "moment": "^2.29.1",
